@@ -1,2 +1,2 @@
-# Intro_to_GitHub
+# Introduction to GitHub
 Introduction Seminar to GitHub
